@@ -1,0 +1,4 @@
+Recipes_FR = {
+	Recipe_Open_Box_of_5.45_Ammo = "Ouvrir boite de munitions de 5.45",
+	Recipe_Place_5.45_Ammo_in_Box = "Mettre munitions de 5.45 en boite",
+}
